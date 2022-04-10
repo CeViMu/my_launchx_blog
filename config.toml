@@ -1,4 +1,4 @@
-baseURL = "https://cevimu.github.io/my_launchx_blog/"
+baseURL = "https://github.com/CeViMu/my_launchx_blog"
 languageCode = "en-us"
 title = "Bitácora de Viaje de Cecilia Muñoz"
 theme = "hugo-winston-theme"
