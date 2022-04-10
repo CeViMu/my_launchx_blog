@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Bitácora de Viaje de Cecilia Muñoz</title>
-    <link>https://cevimu.github.io/my_launchx_blog/tags/</link>
+    <link>https://github.com/CeViMu/my_launchx_blog/tags/</link>
     <description>Recent content in Tags on Bitácora de Viaje de Cecilia Muñoz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://cevimu.github.io/my_launchx_blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://github.com/CeViMu/my_launchx_blog/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
